@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liufan76
-- 👀 I’m interested in full stack it skills.
+- 👀 I’m interested in full stack IT skills.
 - 🌱 I’m currently learning java springboot springcloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me liufan76@163.com
